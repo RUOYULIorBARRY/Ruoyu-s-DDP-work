@@ -1,4 +1,4 @@
-# practice from 2 to 40
+# practice from 2 to 40 (try)
 inventory = {}
 
 def add_item(item, quantity):
